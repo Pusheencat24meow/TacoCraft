@@ -1,8 +1,8 @@
-Ok, so this is an edited, remastered version of eaglercraft.
+Ok, so this is an edited version of eaglercraft.
 
 This is why the file is called eaglercraft.html instead of tacocraft.html
 
-I basically just added things to the eaglercraft source code.
+I basically just added things to the two-file eaglercraft source code.
 
 Credit to skool
 
