@@ -6,4 +6,6 @@ I edited the source code of the skool version of eaglercraft, and therefor left 
 
 Credit is also in the website.
 
+###### This game takes about 50s to load on chromebooks after the redirect.
+
 ![cooltext433727026357512](https://user-images.githubusercontent.com/119009502/232169096-cb96a9ef-3693-4ca7-b58e-9378120b4ee6.png)
