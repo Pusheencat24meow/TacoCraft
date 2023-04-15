@@ -6,4 +6,4 @@
 
 ![wp2652330-wallpaper-minecraft-hd](https://user-images.githubusercontent.com/119009502/232168871-8a91cdaa-5197-41bf-ac6b-2e2c67702e44.png)
 
-###### For questions visit guy301433@gmail.com
+###### For questions email guy301433@gmail.com
